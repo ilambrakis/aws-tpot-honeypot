@@ -129,7 +129,7 @@ AWS Security Group rules were configured to permit management access and require
 
 ## 🚀 Future Improvements
 
-- Leave the honeypot deployed for a longer period to collect attack telemetry.
+- Leave the honeypot deployed for a longer period to collect real-world attack data.
 - Analyze attack data and identify common sources of malicious activity.
 - Create Kibana visualizations based on collected attack data.
 - Integrate additional monitoring and alerting capabilities.
